@@ -1,8 +1,8 @@
-## European-Championships-2021-data-scraping
-# Description
+# European-Championships-2021-data-scraping
+## Description
 .py script to scrap results of the European Championships 2021 at Budapest 
 
-# How to use
+## How to use
 In the .py choose the path of the directory you want to stock the output files at (path variable)
 
 You need to download the webpage from which you want to collect data:
